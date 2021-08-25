@@ -38,7 +38,7 @@ export const DopNav: FC = () => {
                 <div className='logo w-32 md:w-40'>
                     <Link href='/'>
                         <a>
-                            <Image className='cursor-pointer' src='/Dopcoin_logo.png' height='75px' width='' />
+                            <Image className='cursor-pointer' src='/Dopcoin_logo.svg' height='75px' width='' />
                         </a>
                     </Link>
                 </div>
